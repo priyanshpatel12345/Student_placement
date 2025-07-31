@@ -1,0 +1,801 @@
+student_id,name,age,gender,department,year,cgpa,communication_skill,attendance_percentage,internship_done,placement
+S1029,Student_29,19,Female,Computer Science,3rd,9.89,6,88.35,Yes,No
+S1535,Student_535,19,Male,Computer Science,4th,8.23,3,75.55,Yes,No
+S1695,Student_695,22,Other,Mechanical,2nd,5.23,10,88.89,Yes,No
+S1557,Student_557,17,Female,Mechanical,1st,4.2,9,76.4,Yes,No
+S1836,Student_836,24,Other,Electrical,3rd,7.56,2,86.58,Yes,No
+S1596,Student_596,22,Other,Mechanical,2nd,6.22,1,91.53,No,No
+S1165,Student_165,22,Male,Mechanical,1st,9.16,4,99.04,Yes,No
+S1918,Student_918,23,Female,Mechanical,4th,5.62,5,70.26,No,No
+S1495,Student_495,17,Female,Electronics,1st,7.89,8,79.56,No,No
+S1824,Student_824,23,Male,Civil,2nd,8.57,3,90.55,Yes,No
+S1065,Student_65,24,Female,IT,2nd,9.78,10,72.82,No,No
+S1141,Student_141,21,Male,Electrical,2nd,7.95,9,72.93,Yes,Yes
+S1925,Student_925,20,Male,Mechanical,1st,6.83,5,62.35,No,No
+S1827,Student_827,20,Female,IT,2nd,9.17,9,86.15,Yes,Yes
+S1655,Student_655,24,Other,Mechanical,1st,7.1,7,96.01,No,No
+S1331,Student_331,19,Other,Computer Science,4th,9.74,10,93.53,Yes,Yes
+S1664,Student_664,22,Other,Computer Science,1st,4.14,10,88.57,No,No
+S1249,Student_249,21,Male,Mechanical,2nd,6.53,9,60.28,Yes,No
+S1907,Student_907,22,Male,Electrical,1st,4.24,6,61.11,Yes,No
+S1708,Student_708,20,Male,Electronics,1st,9.14,9,87.59,Yes,Yes
+S1305,Student_305,17,Other,Electronics,4th,7.89,2,79.68,No,No
+S1734,Student_734,23,Male,IT,2nd,7.67,4,97.42,No,No
+S1975,Student_975,19,Female,Mechanical,2nd,5.48,10,65.15,No,No
+S1049,Student_49,19,Other,IT,1st,5.5,7,70.41,No,No
+S1896,Student_896,20,Other,IT,3rd,4.78,3,84.25,No,No
+S1002,Student_2,23,Female,Mechanical,3rd,8.94,6,65.81,Yes,No
+S1544,Student_544,20,Male,Civil,2nd,5.39,2,79.03,No,No
+S1350,Student_350,20,Female,Civil,4th,8.45,10,80.2,No,No
+S1904,Student_904,17,Female,Electronics,3rd,5.5,6,89.75,Yes,No
+S1536,Student_536,21,Female,Computer Science,4th,7.15,2,86.21,Yes,No
+S1344,Student_344,22,Other,Electrical,3rd,6.67,4,93.32,Yes,No
+S1994,Student_994,17,Female,Electrical,4th,5.9,10,64.96,No,No
+S1481,Student_481,21,Other,Electronics,2nd,6.47,3,94.9,Yes,No
+S1575,Student_575,17,Other,Electrical,3rd,8.18,4,89.49,No,No
+S1033,Student_33,18,Female,IT,3rd,6.68,3,71.1,Yes,No
+S1031,Student_31,19,Female,Electrical,3rd,5.23,1,90.68,No,No
+S1231,Student_231,20,Other,Electronics,1st,4.29,6,88.34,Yes,No
+S1963,Student_963,18,Male,Electrical,3rd,9.27,5,86.19,No,No
+S1192,Student_192,24,Female,Electrical,2nd,6.67,7,94.67,No,No
+S1333,Student_333,22,Female,Electrical,2nd,9.25,9,90.48,No,No
+S1003,Student_3,21,Other,Mechanical,4th,5.32,7,66.23,No,No
+S1204,Student_204,19,Female,Electronics,4th,4.32,8,81.63,No,No
+S1514,Student_514,17,Female,Mechanical,4th,6.46,9,65.86,Yes,No
+S1799,Student_799,24,Female,Electrical,1st,6.58,7,87.07,Yes,No
+S1306,Student_306,21,Other,IT,1st,9.47,6,98.91,Yes,No
+S1109,Student_109,23,Other,IT,3rd,5.64,7,96.23,No,No
+S1430,Student_430,17,Other,Electronics,3rd,4.58,4,91.43,Yes,No
+S1077,Student_77,24,Female,Electronics,4th,4.1,7,74.49,No,No
+S1084,Student_84,19,Female,Electrical,2nd,9.74,2,77.21,No,No
+S1286,Student_286,21,Male,Computer Science,2nd,5.0,7,63.59,Yes,No
+S1082,Student_82,18,Female,IT,3rd,9.83,6,60.39,No,No
+S1991,Student_991,18,Female,Electrical,2nd,5.75,4,95.79,No,No
+S1789,Student_789,24,Male,Electrical,2nd,9.29,9,85.91,No,No
+S1894,Student_894,17,Male,Electrical,3rd,6.09,5,86.7,Yes,No
+S1398,Student_398,22,Female,Civil,4th,5.31,8,82.53,Yes,No
+S1323,Student_323,19,Female,Mechanical,4th,8.48,8,62.4,No,No
+S1519,Student_519,21,Other,Computer Science,3rd,7.19,4,90.57,Yes,No
+S1916,Student_916,23,Female,Electronics,3rd,5.2,2,87.12,No,No
+S1922,Student_922,17,Male,Electrical,2nd,8.54,3,80.94,Yes,No
+S1005,Student_5,21,Male,Electrical,3rd,4.59,8,69.96,Yes,No
+S1731,Student_731,23,Male,Computer Science,2nd,8.32,9,75.41,Yes,Yes
+S1465,Student_465,22,Other,Computer Science,4th,8.98,10,90.99,No,No
+S1097,Student_97,18,Male,Electrical,4th,8.08,4,75.97,No,No
+S1266,Student_266,19,Female,Electrical,3rd,8.64,4,95.35,Yes,No
+S1357,Student_357,24,Male,Electrical,2nd,6.01,1,73.42,Yes,No
+S1868,Student_868,22,Other,Electrical,1st,9.93,7,71.12,Yes,Yes
+S1798,Student_798,23,Male,Electrical,4th,8.69,4,83.0,No,No
+S1380,Student_380,18,Male,Electronics,4th,4.23,5,79.62,Yes,No
+S1631,Student_631,22,Other,IT,3rd,4.64,9,93.01,Yes,No
+S1381,Student_381,23,Female,Mechanical,2nd,8.09,7,61.32,Yes,Yes
+S1490,Student_490,19,Female,Civil,2nd,6.19,2,73.6,No,No
+S1118,Student_118,18,Male,IT,1st,7.81,3,93.98,No,No
+S1900,Student_900,23,Other,Computer Science,4th,6.1,6,70.5,No,No
+S1250,Student_250,19,Other,Mechanical,3rd,6.48,6,67.19,Yes,No
+S1523,Student_523,18,Male,IT,1st,4.58,9,91.64,Yes,No
+S1009,Student_9,24,Female,Mechanical,3rd,4.96,9,78.13,Yes,No
+S1196,Student_196,17,Other,Mechanical,2nd,6.16,9,82.71,Yes,No
+S1603,Student_603,18,Male,Electrical,3rd,5.84,8,77.46,No,No
+S1081,Student_81,21,Other,Electrical,1st,7.36,10,97.77,No,No
+S1783,Student_783,21,Male,Electronics,2nd,4.18,5,93.48,No,No
+S1587,Student_587,23,Other,Mechanical,1st,4.3,9,70.07,Yes,No
+S1797,Student_797,21,Male,Electronics,1st,7.54,3,68.29,No,No
+S1239,Student_239,20,Male,Mechanical,4th,7.96,9,89.43,No,No
+S1290,Student_290,19,Female,Electronics,3rd,8.86,6,92.55,No,No
+S1211,Student_211,17,Female,Electrical,3rd,8.62,4,96.57,Yes,No
+S1717,Student_717,21,Female,Mechanical,2nd,5.12,6,71.77,Yes,No
+S1359,Student_359,18,Female,IT,1st,5.41,1,63.41,No,No
+S1449,Student_449,24,Male,Civil,4th,4.39,7,89.4,Yes,No
+S1227,Student_227,22,Female,Computer Science,2nd,9.26,9,66.12,No,No
+S1950,Student_950,22,Female,Electrical,2nd,5.87,6,60.8,Yes,No
+S1946,Student_946,19,Female,Computer Science,2nd,6.88,8,61.88,Yes,No
+S1796,Student_796,20,Other,Electrical,2nd,6.09,7,88.97,Yes,No
+S1501,Student_501,24,Female,IT,2nd,7.19,3,93.96,No,No
+S1464,Student_464,18,Other,Civil,2nd,5.72,7,64.16,Yes,No
+S1362,Student_362,24,Female,Electrical,1st,7.19,4,63.89,No,No
+S1468,Student_468,23,Other,Electrical,4th,9.11,7,76.03,Yes,Yes
+S1935,Student_935,24,Female,Electrical,2nd,4.82,4,85.9,No,No
+S1428,Student_428,19,Male,Electronics,2nd,9.73,5,78.81,No,No
+S1007,Student_7,18,Male,Civil,2nd,7.45,8,72.57,No,No
+S1155,Student_155,17,Female,Mechanical,4th,7.69,10,69.56,No,No
+S1541,Student_541,18,Male,Computer Science,1st,9.58,3,60.41,No,No
+S1440,Student_440,22,Female,IT,1st,5.57,9,99.43,Yes,No
+S1482,Student_482,24,Other,Electronics,3rd,9.32,9,80.42,Yes,Yes
+S1422,Student_422,17,Other,Mechanical,3rd,6.24,8,62.02,No,No
+S1778,Student_778,22,Male,Mechanical,1st,7.66,5,89.28,No,No
+S1949,Student_949,20,Male,Computer Science,3rd,9.0,1,83.64,No,No
+S1334,Student_334,19,Male,Mechanical,1st,4.97,6,63.35,Yes,No
+S1576,Student_576,17,Other,Civil,1st,7.36,3,64.18,No,No
+S1934,Student_934,23,Female,Electrical,2nd,8.21,9,99.93,Yes,Yes
+S1567,Student_567,19,Female,Electronics,1st,6.4,5,63.29,No,No
+S1594,Student_594,23,Male,Electronics,3rd,9.56,4,72.47,No,No
+S1530,Student_530,21,Other,Computer Science,3rd,4.81,4,79.45,Yes,No
+S1581,Student_581,21,Other,IT,2nd,6.01,1,70.09,Yes,No
+S1707,Student_707,20,Other,Mechanical,1st,8.18,8,83.36,Yes,Yes
+S1448,Student_448,20,Other,Electrical,3rd,8.18,8,70.03,Yes,Yes
+S1453,Student_453,18,Female,Civil,4th,9.5,4,89.32,No,No
+S1228,Student_228,17,Other,Electrical,4th,9.78,7,83.27,No,No
+S1352,Student_352,18,Other,IT,3rd,8.45,2,69.8,Yes,No
+S1728,Student_728,23,Male,Electronics,2nd,7.02,6,91.75,No,No
+S1212,Student_212,21,Male,IT,1st,8.81,3,78.12,No,No
+S1079,Student_79,19,Female,IT,2nd,7.07,4,62.57,No,No
+S1148,Student_148,24,Other,Electrical,3rd,7.88,8,91.06,Yes,Yes
+S1302,Student_302,18,Other,IT,3rd,5.4,1,98.72,No,No
+S1628,Student_628,19,Female,Electrical,1st,9.78,10,73.39,Yes,Yes
+S1777,Student_777,17,Male,Computer Science,1st,4.43,6,89.69,No,No
+S1506,Student_506,22,Male,Electrical,3rd,6.19,9,73.12,No,No
+S1342,Student_342,19,Male,Electrical,1st,6.94,1,85.96,Yes,No
+S1485,Student_485,21,Other,IT,1st,6.15,3,68.64,Yes,No
+S1711,Student_711,19,Female,Mechanical,4th,6.86,7,77.07,Yes,No
+S1133,Student_133,24,Other,Civil,1st,4.37,8,89.43,Yes,No
+S1703,Student_703,22,Other,IT,1st,8.38,1,96.08,No,No
+S1311,Student_311,21,Female,Electronics,2nd,9.65,6,82.88,Yes,No
+S1722,Student_722,22,Male,Electrical,1st,8.73,10,92.53,No,No
+S1629,Student_629,18,Female,Civil,3rd,8.49,2,91.42,No,No
+S1000,Student_0,17,Female,Computer Science,1st,6.22,3,60.52,Yes,No
+S1316,Student_316,20,Other,IT,2nd,7.56,8,90.65,No,No
+S1706,Student_706,17,Female,Electronics,2nd,8.29,2,76.3,Yes,No
+S1547,Student_547,22,Other,Civil,3rd,4.24,10,64.96,Yes,No
+S1872,Student_872,17,Female,Mechanical,3rd,7.77,3,81.35,Yes,No
+S1532,Student_532,19,Male,Mechanical,4th,9.69,9,67.36,Yes,Yes
+S1477,Student_477,19,Male,IT,2nd,5.73,4,68.45,No,No
+S1404,Student_404,22,Other,Computer Science,3rd,8.99,3,92.6,No,No
+S1172,Student_172,17,Other,IT,2nd,4.69,8,81.42,Yes,No
+S1125,Student_125,18,Male,Electronics,4th,4.27,4,64.2,No,No
+S1394,Student_394,22,Other,Computer Science,4th,4.18,4,61.6,Yes,No
+S1420,Student_420,18,Other,Electronics,3rd,9.53,1,88.88,Yes,No
+S1552,Student_552,17,Male,Mechanical,1st,9.42,6,77.4,Yes,No
+S1903,Student_903,23,Male,Computer Science,2nd,6.55,8,67.21,No,No
+S1090,Student_90,21,Female,Mechanical,3rd,5.24,5,79.69,No,No
+S1939,Student_939,18,Male,IT,4th,5.3,1,93.61,Yes,No
+S1181,Student_181,23,Male,Electrical,4th,7.55,6,71.7,Yes,No
+S1274,Student_274,21,Female,Electronics,3rd,5.87,1,80.74,No,No
+S1895,Student_895,23,Male,Electronics,2nd,4.66,10,74.61,Yes,No
+S1069,Student_69,22,Female,Civil,1st,6.81,10,72.76,No,No
+S1291,Student_291,24,Male,Mechanical,1st,4.35,3,99.02,No,No
+S1131,Student_131,24,Other,Civil,1st,9.49,7,63.12,No,No
+S1300,Student_300,18,Female,Computer Science,2nd,9.86,2,82.19,No,No
+S1424,Student_424,17,Male,IT,1st,9.02,8,67.38,No,No
+S1326,Student_326,19,Other,IT,4th,5.25,5,74.97,No,No
+S1144,Student_144,23,Other,Electronics,2nd,5.59,4,90.64,Yes,No
+S1423,Student_423,17,Other,Electrical,3rd,8.08,9,76.31,No,No
+S1580,Student_580,18,Male,Civil,1st,8.66,3,84.59,Yes,No
+S1135,Student_135,24,Female,Electrical,1st,9.97,5,61.64,No,No
+S1450,Student_450,19,Female,Computer Science,3rd,8.59,5,65.19,Yes,No
+S1164,Student_164,19,Male,Electronics,2nd,6.7,10,73.71,Yes,No
+S1028,Student_28,20,Other,Computer Science,2nd,8.25,1,91.59,No,No
+S1773,Student_773,17,Male,Mechanical,3rd,6.48,8,61.66,Yes,No
+S1193,Student_193,20,Female,Electrical,1st,6.54,3,70.89,Yes,No
+S1388,Student_388,17,Male,Electronics,2nd,5.9,6,62.43,Yes,No
+S1852,Student_852,21,Female,Mechanical,2nd,9.69,5,70.14,No,No
+S1169,Student_169,21,Male,IT,2nd,7.66,7,90.33,Yes,Yes
+S1705,Student_705,21,Other,Electrical,3rd,6.23,6,85.01,No,No
+S1140,Student_140,19,Other,Civil,2nd,9.5,9,60.19,No,No
+S1173,Student_173,18,Female,Computer Science,3rd,4.2,3,72.85,Yes,No
+S1006,Student_6,23,Female,Electronics,3rd,9.73,1,77.77,No,No
+S1745,Student_745,20,Male,Computer Science,4th,8.97,9,99.26,Yes,Yes
+S1478,Student_478,20,Male,Computer Science,3rd,9.89,2,99.69,Yes,No
+S1073,Student_73,24,Other,Electronics,4th,5.69,5,62.51,Yes,No
+S1910,Student_910,21,Male,Mechanical,3rd,4.2,1,83.26,Yes,No
+S1813,Student_813,20,Female,Computer Science,3rd,9.23,4,78.4,No,No
+S1238,Student_238,24,Other,Electrical,2nd,7.16,8,98.18,No,No
+S1145,Student_145,17,Other,Civil,3rd,6.97,8,71.26,No,No
+S1792,Student_792,23,Other,Mechanical,4th,8.17,1,74.2,Yes,No
+S1234,Student_234,23,Other,Electronics,3rd,8.39,7,80.13,No,No
+S1220,Student_220,24,Female,Electrical,3rd,7.03,8,78.64,No,No
+S1923,Student_923,24,Other,Mechanical,4th,6.28,5,99.24,Yes,No
+S1500,Student_500,18,Female,IT,2nd,8.38,10,93.64,Yes,Yes
+S1132,Student_132,24,Female,Mechanical,1st,7.35,5,91.69,No,No
+S1990,Student_990,24,Other,IT,2nd,6.26,2,65.97,No,No
+S1774,Student_774,23,Female,Mechanical,3rd,5.39,1,88.28,No,No
+S1185,Student_185,23,Other,Computer Science,1st,8.03,3,64.62,Yes,No
+S1041,Student_41,18,Other,Civil,4th,6.69,4,70.76,No,No
+S1696,Student_696,18,Other,Civil,3rd,6.92,6,64.04,Yes,No
+S1108,Student_108,20,Male,Mechanical,4th,7.36,3,77.16,Yes,No
+S1588,Student_588,24,Male,Computer Science,4th,5.62,7,79.66,Yes,No
+S1056,Student_56,22,Other,Computer Science,3rd,6.14,7,62.94,Yes,No
+S1405,Student_405,23,Male,IT,2nd,7.98,3,99.39,No,No
+S1442,Student_442,19,Male,Mechanical,1st,7.55,5,98.11,No,No
+S1757,Student_757,24,Other,Mechanical,3rd,4.55,8,70.6,No,No
+S1997,Student_997,18,Male,Computer Science,1st,4.32,10,74.76,Yes,No
+S1024,Student_24,22,Female,Electronics,1st,6.87,3,65.44,Yes,No
+S1467,Student_467,23,Other,Mechanical,4th,6.25,6,99.9,No,No
+S1539,Student_539,23,Female,Mechanical,3rd,8.62,7,62.33,Yes,Yes
+S1531,Student_531,17,Male,IT,3rd,4.14,4,74.96,No,No
+S1618,Student_618,20,Female,Civil,4th,8.6,2,78.37,Yes,No
+S1694,Student_694,23,Female,IT,3rd,9.66,3,74.39,No,No
+S1926,Student_926,23,Male,Computer Science,1st,8.99,1,70.75,No,No
+S1338,Student_338,22,Other,IT,4th,6.16,9,77.48,Yes,No
+S1051,Student_51,18,Female,Civil,1st,7.5,10,96.51,Yes,Yes
+S1507,Student_507,17,Male,Electronics,3rd,7.67,9,60.1,Yes,Yes
+S1516,Student_516,22,Other,Electronics,3rd,6.31,3,79.5,Yes,No
+S1920,Student_920,18,Female,Electronics,2nd,5.38,4,62.11,No,No
+S1781,Student_781,21,Other,Mechanical,1st,5.17,7,89.04,Yes,No
+S1264,Student_264,23,Male,Electrical,1st,8.85,1,77.52,Yes,No
+S1817,Student_817,17,Female,Electronics,4th,5.97,10,69.18,Yes,No
+S1710,Student_710,17,Other,Civil,1st,7.8,4,94.64,No,No
+S1682,Student_682,22,Female,Electronics,1st,5.13,4,99.17,No,No
+S1832,Student_832,22,Other,Electrical,4th,6.11,5,93.29,Yes,No
+S1518,Student_518,22,Female,Computer Science,4th,6.59,6,71.25,No,No
+S1447,Student_447,17,Male,Electrical,1st,6.91,6,73.13,Yes,No
+S1018,Student_18,21,Female,IT,1st,4.66,9,83.88,No,No
+S1715,Student_715,19,Other,Computer Science,2nd,8.06,6,75.81,Yes,No
+S1483,Student_483,17,Other,Electrical,4th,9.59,7,79.18,Yes,Yes
+S1568,Student_568,17,Female,Electrical,3rd,9.12,2,84.49,Yes,No
+S1433,Student_433,18,Male,Civil,2nd,8.51,6,61.92,No,No
+S1367,Student_367,24,Male,IT,2nd,9.17,6,91.48,Yes,No
+S1083,Student_83,21,Female,Computer Science,3rd,8.65,10,93.58,No,No
+S1061,Student_61,24,Male,Electrical,4th,8.29,3,68.32,No,No
+S1638,Student_638,21,Male,Civil,2nd,4.53,1,95.72,No,No
+S1272,Student_272,19,Other,Electronics,4th,7.5,5,86.58,No,No
+S1285,Student_285,22,Other,Electrical,1st,9.93,6,82.29,No,No
+S1360,Student_360,19,Other,Electronics,4th,7.94,8,95.02,Yes,Yes
+S1354,Student_354,18,Other,Electrical,3rd,9.43,10,62.23,No,No
+S1456,Student_456,20,Female,Mechanical,4th,9.65,10,71.54,No,No
+S1278,Student_278,17,Male,Electrical,2nd,4.46,1,60.22,Yes,No
+S1012,Student_12,19,Other,Electronics,3rd,7.48,3,64.95,Yes,No
+S1182,Student_182,20,Male,Computer Science,2nd,9.34,8,75.83,No,No
+S1368,Student_368,18,Female,Mechanical,2nd,6.44,2,99.61,Yes,No
+S1881,Student_881,21,Female,IT,2nd,7.59,3,80.22,Yes,No
+S1615,Student_615,22,Other,Electronics,4th,5.48,6,96.76,Yes,No
+S1223,Student_223,17,Female,IT,3rd,7.75,4,63.43,Yes,No
+S1572,Student_572,18,Other,IT,4th,8.07,2,91.15,No,No
+S1970,Student_970,23,Female,Electrical,2nd,7.16,7,81.5,Yes,No
+S1653,Student_653,20,Other,IT,4th,4.8,8,61.8,No,No
+S1545,Student_545,23,Male,IT,4th,7.1,1,89.19,No,No
+S1582,Student_582,18,Male,Civil,1st,6.52,1,79.75,No,No
+S1633,Student_633,20,Male,IT,1st,5.68,5,87.67,No,No
+S1176,Student_176,20,Male,IT,1st,6.22,10,71.63,Yes,No
+S1665,Student_665,18,Female,Civil,4th,4.88,6,73.02,No,No
+S1673,Student_673,20,Female,Electrical,2nd,5.59,4,64.32,Yes,No
+S1585,Student_585,20,Male,Civil,3rd,4.1,5,99.73,No,No
+S1873,Student_873,20,Other,Mechanical,2nd,9.96,4,71.07,No,No
+S1393,Student_393,21,Other,Electronics,2nd,6.67,3,79.89,Yes,No
+S1163,Student_163,18,Male,Electrical,1st,6.62,4,87.41,No,No
+S1248,Student_248,17,Male,Electrical,3rd,4.19,6,62.2,No,No
+S1634,Student_634,18,Other,Mechanical,2nd,6.34,5,81.17,Yes,No
+S1885,Student_885,22,Other,Electronics,4th,8.01,5,77.33,No,No
+S1669,Student_669,18,Other,IT,3rd,9.35,3,64.94,Yes,No
+S1375,Student_375,17,Other,Civil,2nd,9.23,1,80.22,No,No
+S1412,Student_412,19,Female,IT,2nd,6.56,4,60.98,No,No
+S1074,Student_74,23,Female,Mechanical,1st,4.32,2,87.53,Yes,No
+S1113,Student_113,22,Other,Computer Science,2nd,4.74,8,80.69,Yes,No
+S1598,Student_598,21,Male,Computer Science,2nd,4.57,5,87.36,Yes,No
+S1961,Student_961,19,Female,Mechanical,4th,5.24,5,99.72,No,No
+S1390,Student_390,23,Other,Computer Science,1st,6.72,9,72.49,Yes,No
+S1104,Student_104,22,Other,Electrical,1st,7.51,8,60.45,Yes,Yes
+S1114,Student_114,18,Other,Civil,2nd,5.02,8,70.99,No,No
+S1417,Student_417,22,Female,Civil,2nd,9.24,5,84.39,No,No
+S1525,Student_525,20,Female,Electrical,4th,8.69,4,64.04,Yes,No
+S1457,Student_457,22,Male,Computer Science,4th,7.11,5,81.49,Yes,No
+S1409,Student_409,22,Male,IT,2nd,9.62,2,97.22,Yes,No
+S1092,Student_92,18,Female,Electronics,1st,8.2,7,95.52,No,No
+S1930,Student_930,24,Other,Computer Science,2nd,5.31,3,96.05,No,No
+S1089,Student_89,23,Female,Computer Science,2nd,4.77,10,67.6,No,No
+S1336,Student_336,18,Other,IT,2nd,7.19,10,77.39,Yes,No
+S1988,Student_988,22,Other,Civil,3rd,9.28,6,84.6,No,No
+S1921,Student_921,17,Female,Civil,2nd,4.48,1,67.79,No,No
+S1933,Student_933,20,Female,Civil,4th,9.21,6,74.84,Yes,No
+S1605,Student_605,20,Male,Civil,3rd,9.31,4,62.47,Yes,No
+S1593,Student_593,21,Male,Mechanical,2nd,8.15,4,87.44,Yes,No
+S1611,Student_611,21,Male,Civil,4th,7.35,5,89.33,No,No
+S1094,Student_94,23,Other,Electrical,3rd,5.71,4,74.99,Yes,No
+S1011,Student_11,19,Male,Civil,1st,6.43,8,76.57,Yes,No
+S1396,Student_396,22,Other,Electrical,3rd,8.66,8,80.82,No,No
+S1533,Student_533,23,Male,Civil,3rd,6.42,1,93.15,No,No
+S1043,Student_43,23,Other,Computer Science,1st,8.3,6,81.85,No,No
+S1042,Student_42,23,Male,IT,4th,4.11,7,77.2,No,No
+S1329,Student_329,17,Female,Civil,4th,5.38,10,85.94,Yes,No
+S1167,Student_167,19,Male,Civil,2nd,8.5,8,93.54,No,No
+S1497,Student_497,21,Other,Computer Science,3rd,8.42,4,76.59,Yes,No
+S1876,Student_876,24,Other,Computer Science,2nd,8.88,2,85.16,Yes,No
+S1597,Student_597,22,Male,Computer Science,4th,7.2,7,99.04,Yes,No
+S1756,Student_756,19,Other,IT,3rd,6.69,2,74.97,No,No
+S1100,Student_100,18,Female,Civil,2nd,5.76,10,67.81,Yes,No
+S1426,Student_426,22,Female,Electrical,4th,5.13,3,99.27,No,No
+S1178,Student_178,19,Other,Electronics,1st,6.24,9,96.65,No,No
+S1444,Student_444,17,Other,IT,1st,7.54,3,68.3,Yes,No
+S1416,Student_416,17,Other,IT,1st,8.93,2,78.97,No,No
+S1870,Student_870,17,Other,Computer Science,2nd,5.12,7,87.43,No,No
+S1882,Student_882,20,Other,IT,4th,8.12,7,81.54,Yes,Yes
+S1680,Student_680,21,Other,Mechanical,1st,4.55,3,89.32,No,No
+S1177,Student_177,21,Female,Civil,2nd,9.81,4,79.16,No,No
+S1395,Student_395,17,Other,Civil,4th,5.1,1,77.88,No,No
+S1911,Student_911,17,Other,IT,1st,7.85,10,67.97,Yes,Yes
+S1793,Student_793,19,Other,Electrical,2nd,8.06,10,91.77,No,No
+S1960,Student_960,22,Female,IT,4th,8.43,5,66.67,No,No
+S1684,Student_684,19,Male,Computer Science,1st,9.54,7,69.78,Yes,Yes
+S1383,Student_383,24,Male,Electrical,1st,5.43,9,64.11,Yes,No
+S1956,Student_956,22,Female,Electronics,1st,4.24,1,80.22,No,No
+S1751,Student_751,17,Female,Computer Science,4th,6.46,4,91.88,No,No
+S1257,Student_257,22,Other,Computer Science,3rd,9.58,5,77.6,No,No
+S1538,Student_538,23,Male,Electronics,4th,7.11,2,70.85,No,No
+S1335,Student_335,19,Male,Civil,1st,4.24,9,72.27,No,No
+S1015,Student_15,20,Other,Civil,1st,5.67,1,89.5,Yes,No
+S1324,Student_324,18,Female,Electrical,2nd,6.3,10,70.26,No,No
+S1758,Student_758,24,Female,Civil,2nd,4.1,1,67.27,No,No
+S1222,Student_222,24,Other,Electrical,2nd,9.57,5,76.69,No,No
+S1179,Student_179,21,Male,Computer Science,1st,9.37,8,95.74,Yes,Yes
+S1983,Student_983,21,Male,Computer Science,2nd,9.09,9,82.73,No,No
+S1022,Student_22,17,Male,Computer Science,4th,6.36,2,88.98,Yes,No
+S1356,Student_356,19,Female,Mechanical,4th,5.11,5,64.96,Yes,No
+S1666,Student_666,20,Male,IT,1st,9.86,3,79.2,Yes,No
+S1861,Student_861,21,Male,Mechanical,3rd,6.56,1,85.26,Yes,No
+S1340,Student_340,21,Female,Mechanical,3rd,8.22,3,74.36,No,No
+S1431,Student_431,18,Male,Electronics,2nd,5.74,2,62.75,Yes,No
+S1551,Student_551,22,Male,IT,3rd,9.77,2,73.39,Yes,No
+S1833,Student_833,23,Male,Electrical,3rd,8.5,1,76.93,Yes,No
+S1203,Student_203,21,Other,Computer Science,2nd,8.07,1,63.54,No,No
+S1630,Student_630,21,Other,Civil,1st,6.53,9,98.13,No,No
+S1093,Student_93,23,Other,Civil,3rd,7.81,6,84.25,No,No
+S1558,Student_558,19,Other,Mechanical,1st,7.57,3,69.24,Yes,No
+S1068,Student_68,20,Other,IT,4th,8.59,1,78.01,No,No
+S1622,Student_622,23,Female,Electronics,2nd,4.49,7,74.54,No,No
+S1284,Student_284,21,Other,Computer Science,4th,8.98,7,76.04,Yes,Yes
+S1844,Student_844,19,Other,Electrical,1st,5.56,7,77.98,No,No
+S1434,Student_434,20,Male,Electronics,2nd,5.76,9,95.64,No,No
+S1153,Student_153,19,Male,Civil,2nd,7.8,6,96.33,No,No
+S1075,Student_75,20,Female,IT,2nd,7.97,5,95.24,Yes,No
+S1730,Student_730,24,Other,Mechanical,1st,6.01,4,64.26,Yes,No
+S1446,Student_446,24,Other,Electrical,2nd,8.32,10,92.97,Yes,Yes
+S1188,Student_188,17,Other,Mechanical,1st,9.02,9,67.43,Yes,Yes
+S1271,Student_271,20,Male,Computer Science,1st,7.72,1,69.67,No,No
+S1236,Student_236,23,Other,Computer Science,2nd,5.29,1,84.87,Yes,No
+S1487,Student_487,17,Male,Electrical,1st,9.06,6,78.34,Yes,No
+S1117,Student_117,17,Male,IT,1st,7.42,4,84.56,No,No
+S1943,Student_943,22,Other,Electronics,2nd,5.91,2,86.35,Yes,No
+S1512,Student_512,19,Other,IT,2nd,5.58,6,68.46,No,No
+S1825,Student_825,23,Male,Electrical,3rd,8.43,6,65.89,No,No
+S1591,Student_591,19,Other,Electronics,1st,5.5,6,89.88,No,No
+S1126,Student_126,24,Male,Civil,4th,8.87,9,92.8,Yes,Yes
+S1116,Student_116,23,Female,IT,1st,9.17,2,78.12,Yes,No
+S1473,Student_473,22,Female,IT,3rd,8.42,2,95.05,Yes,No
+S1693,Student_693,17,Other,Electronics,2nd,8.73,7,93.6,Yes,Yes
+S1057,Student_57,18,Female,Mechanical,3rd,6.33,5,81.72,No,No
+S1863,Student_863,21,Other,Electronics,4th,5.46,6,84.98,No,No
+S1912,Student_912,19,Other,Electrical,1st,4.36,4,75.59,No,No
+S1369,Student_369,18,Female,Electrical,1st,6.23,5,89.84,Yes,No
+S1268,Student_268,19,Other,Electrical,4th,8.05,6,60.72,No,No
+S1046,Student_46,24,Female,Civil,2nd,7.16,3,72.82,Yes,No
+S1349,Student_349,17,Male,IT,4th,4.48,8,91.65,No,No
+S1195,Student_195,21,Female,Electrical,3rd,9.92,2,93.53,Yes,No
+S1999,Student_999,18,Female,Mechanical,3rd,9.15,7,80.93,No,No
+S1834,Student_834,17,Male,Electronics,2nd,4.97,3,72.89,No,No
+S1736,Student_736,22,Male,Electrical,4th,5.97,3,80.6,No,No
+S1263,Student_263,20,Male,Electronics,1st,7.0,10,87.79,No,No
+S1443,Student_443,18,Female,Civil,4th,9.26,8,87.15,Yes,Yes
+S1675,Student_675,21,Male,Electrical,2nd,7.02,8,82.4,No,No
+S1304,Student_304,22,Female,IT,3rd,6.44,6,91.08,No,No
+S1341,Student_341,19,Male,Civil,3rd,8.59,1,65.16,No,No
+S1966,Student_966,21,Male,Mechanical,3rd,5.26,10,88.59,Yes,No
+S1149,Student_149,23,Male,Civil,3rd,4.47,10,84.58,Yes,No
+S1124,Student_124,17,Female,Civil,3rd,7.88,2,76.91,No,No
+S1786,Student_786,18,Other,Electronics,2nd,8.0,6,76.97,No,No
+S1050,Student_50,17,Male,Civil,1st,4.69,1,78.17,No,No
+S1353,Student_353,22,Female,Mechanical,4th,4.47,4,90.54,Yes,No
+S1927,Student_927,24,Female,Civil,3rd,4.57,2,84.75,Yes,No
+S1142,Student_142,19,Male,Mechanical,3rd,8.46,8,77.54,No,No
+S1470,Student_470,19,Male,Mechanical,4th,8.9,1,70.52,No,No
+S1399,Student_399,19,Female,Mechanical,1st,9.03,4,92.94,No,No
+S1625,Student_625,19,Male,Electrical,4th,8.03,3,84.88,Yes,No
+S1320,Student_320,21,Male,Mechanical,3rd,8.66,8,95.17,Yes,Yes
+S1019,Student_19,24,Male,Electrical,3rd,5.58,4,91.11,No,No
+S1809,Student_809,23,Other,Electrical,2nd,8.96,7,97.22,No,No
+S1790,Student_790,17,Female,Mechanical,1st,4.18,8,99.85,No,No
+S1808,Student_808,21,Male,Mechanical,1st,8.13,7,82.79,No,No
+S1407,Student_407,20,Male,Computer Science,1st,6.07,9,81.42,Yes,No
+S1537,Student_537,21,Other,Computer Science,2nd,7.59,2,64.4,No,No
+S1620,Student_620,17,Female,Civil,4th,7.55,4,72.89,No,No
+S1038,Student_38,19,Other,Electrical,1st,9.61,7,85.5,Yes,Yes
+S1175,Student_175,22,Female,Civil,2nd,7.06,7,73.09,No,No
+S1245,Student_245,18,Other,IT,3rd,8.31,2,67.72,No,No
+S1828,Student_828,17,Female,Mechanical,1st,5.36,8,94.81,No,No
+S1667,Student_667,21,Other,IT,4th,8.6,4,81.34,No,No
+S1754,Student_754,21,Female,Electrical,4th,9.29,2,81.95,Yes,No
+S1858,Student_858,22,Other,Computer Science,4th,5.94,1,62.51,Yes,No
+S1154,Student_154,20,Other,Computer Science,3rd,4.88,2,84.87,No,No
+S1287,Student_287,17,Male,Electronics,3rd,4.5,6,70.76,No,No
+S1602,Student_602,18,Other,Electrical,1st,9.46,2,87.78,Yes,No
+S1569,Student_569,23,Other,IT,2nd,8.37,5,66.49,Yes,No
+S1743,Student_743,22,Female,Electrical,1st,4.79,3,91.27,No,No
+S1017,Student_17,19,Male,Mechanical,4th,7.56,5,82.78,Yes,No
+S1127,Student_127,18,Male,Computer Science,2nd,7.76,4,79.15,No,No
+S1322,Student_322,20,Male,Computer Science,2nd,4.6,10,92.1,No,No
+S1255,Student_255,24,Other,Civil,4th,9.49,6,64.56,No,No
+S1657,Student_657,18,Other,Computer Science,3rd,7.28,2,94.51,No,No
+S1964,Student_964,17,Female,Civil,3rd,7.74,4,80.52,No,No
+S1190,Student_190,24,Male,Civil,4th,6.62,6,94.86,Yes,No
+S1115,Student_115,22,Other,Computer Science,4th,6.31,10,67.42,No,No
+S1616,Student_616,23,Female,Computer Science,3rd,8.83,6,62.15,No,No
+S1606,Student_606,18,Other,IT,4th,7.77,1,91.32,Yes,No
+S1180,Student_180,20,Male,Computer Science,3rd,7.59,8,86.14,Yes,Yes
+S1301,Student_301,19,Other,Electronics,2nd,9.32,10,71.53,Yes,Yes
+S1759,Student_759,18,Male,Civil,2nd,9.72,3,82.08,No,No
+S1712,Student_712,24,Female,Civil,3rd,7.33,4,72.13,Yes,No
+S1723,Student_723,17,Other,IT,1st,5.85,9,75.6,Yes,No
+S1685,Student_685,18,Other,Civil,3rd,7.89,10,97.69,No,No
+S1979,Student_979,23,Other,IT,1st,7.71,4,60.58,No,No
+S1517,Student_517,18,Other,Electronics,1st,8.57,2,94.43,Yes,No
+S1984,Student_984,22,Male,Electronics,4th,6.27,9,95.83,Yes,No
+S1045,Student_45,24,Other,Civil,4th,6.26,2,67.22,Yes,No
+S1909,Student_909,22,Male,Mechanical,2nd,7.07,7,77.33,No,No
+S1157,Student_157,17,Other,Civil,1st,9.31,3,61.62,Yes,No
+S1851,Student_851,18,Other,Electrical,1st,8.12,8,72.2,No,No
+S1171,Student_171,23,Female,IT,4th,5.98,10,83.36,No,No
+S1016,Student_16,24,Female,IT,4th,9.47,7,98.52,Yes,Yes
+S1511,Student_511,22,Male,Computer Science,4th,7.98,3,78.2,No,No
+S1048,Student_48,22,Female,IT,1st,5.5,10,74.84,No,No
+S1971,Student_971,17,Male,Electrical,4th,8.66,6,88.03,Yes,No
+S1940,Student_940,17,Other,IT,2nd,8.61,2,93.62,Yes,No
+S1515,Student_515,20,Female,Computer Science,2nd,7.13,4,83.14,Yes,No
+S1952,Student_952,23,Other,Computer Science,4th,6.06,7,95.48,No,No
+S1480,Student_480,19,Male,IT,4th,4.35,8,69.97,No,No
+S1283,Student_283,24,Male,Computer Science,1st,9.34,10,72.37,Yes,Yes
+S1718,Student_718,17,Male,Mechanical,3rd,9.99,1,99.15,Yes,No
+S1877,Student_877,17,Female,IT,3rd,9.77,6,96.58,No,No
+S1225,Student_225,18,Female,Electronics,1st,8.91,2,84.46,Yes,No
+S1026,Student_26,24,Female,Electrical,4th,5.92,5,71.29,No,No
+S1954,Student_954,19,Male,Mechanical,2nd,8.62,10,63.54,Yes,Yes
+S1437,Student_437,18,Female,Computer Science,2nd,9.06,9,61.18,Yes,Yes
+S1951,Student_951,22,Female,Computer Science,2nd,4.21,2,77.18,No,No
+S1364,Student_364,17,Other,Mechanical,3rd,6.88,10,60.72,Yes,No
+S1229,Student_229,24,Male,IT,4th,4.92,4,63.17,No,No
+S1037,Student_37,23,Male,Electronics,3rd,6.86,3,81.13,Yes,No
+S1965,Student_965,17,Other,Civil,4th,5.39,7,67.57,No,No
+S1374,Student_374,23,Other,Civil,1st,9.79,7,60.52,No,No
+S1469,Student_469,24,Male,Electronics,2nd,7.05,1,99.39,No,No
+S1967,Student_967,18,Other,Civil,3rd,9.18,5,65.88,No,No
+S1850,Student_850,18,Male,Electronics,1st,8.84,1,83.78,Yes,No
+S1704,Student_704,23,Male,Mechanical,3rd,8.64,10,69.73,No,No
+S1841,Student_841,17,Female,Computer Science,2nd,8.39,9,92.0,No,No
+S1194,Student_194,19,Male,Electrical,2nd,7.79,5,76.32,Yes,No
+S1854,Student_854,19,Other,Electronics,4th,7.86,7,72.56,No,No
+S1864,Student_864,21,Female,IT,3rd,6.11,1,76.09,Yes,No
+S1503,Student_503,24,Other,Electronics,3rd,4.04,8,98.28,No,No
+S1969,Student_969,23,Other,Mechanical,1st,7.14,4,60.18,No,No
+S1830,Student_830,17,Male,Civil,2nd,8.33,6,96.38,No,No
+S1579,Student_579,19,Male,Electrical,3rd,8.07,4,93.94,No,No
+S1968,Student_968,20,Male,Electrical,2nd,7.76,7,63.24,No,No
+S1162,Student_162,20,Other,Mechanical,3rd,7.56,2,99.15,No,No
+S1908,Student_908,22,Other,Computer Science,4th,6.8,2,93.17,No,No
+S1152,Student_152,22,Male,Electrical,1st,6.25,6,64.17,No,No
+S1801,Student_801,18,Other,Mechanical,3rd,5.6,1,99.32,No,No
+S1993,Student_993,18,Female,Civil,2nd,4.39,6,70.6,No,No
+S1755,Student_755,23,Other,IT,1st,7.57,4,95.13,Yes,No
+S1111,Student_111,23,Female,Electronics,1st,7.54,7,69.0,Yes,Yes
+S1226,Student_226,20,Male,Electrical,1st,9.4,7,78.56,Yes,Yes
+S1688,Student_688,21,Female,Computer Science,2nd,9.19,5,69.14,Yes,No
+S1103,Student_103,23,Other,Electronics,1st,7.98,1,96.23,Yes,No
+S1421,Student_421,21,Other,Electronics,4th,5.61,7,72.89,Yes,No
+S1419,Student_419,22,Male,Electrical,1st,4.84,3,75.83,No,No
+S1750,Student_750,24,Female,IT,2nd,6.23,3,97.62,No,No
+S1586,Student_586,24,Female,Mechanical,2nd,4.88,3,67.49,No,No
+S1780,Student_780,22,Female,IT,1st,5.22,10,94.15,No,No
+S1672,Student_672,17,Other,Electrical,1st,8.82,10,81.33,Yes,Yes
+S1119,Student_119,22,Female,Electronics,4th,8.9,8,69.61,No,No
+S1053,Student_53,23,Female,IT,2nd,8.5,7,83.34,Yes,Yes
+S1151,Student_151,17,Male,Electronics,3rd,8.14,8,96.62,Yes,Yes
+S1403,Student_403,18,Female,Mechanical,4th,6.38,9,62.03,No,No
+S1945,Student_945,23,Other,Civil,4th,7.71,7,90.07,No,No
+S1207,Student_207,18,Male,Mechanical,3rd,4.72,7,78.86,Yes,No
+S1658,Student_658,18,Female,Mechanical,3rd,9.3,7,74.39,No,No
+S1843,Student_843,17,Male,Computer Science,4th,7.84,9,73.86,No,No
+S1762,Student_762,22,Male,IT,2nd,7.84,6,67.21,Yes,No
+S1008,Student_8,19,Female,Electrical,4th,4.9,10,90.61,Yes,No
+S1807,Student_807,17,Other,Civil,3rd,4.45,7,60.43,No,No
+S1036,Student_36,22,Male,Computer Science,3rd,8.85,5,89.3,No,No
+S1452,Student_452,21,Male,IT,4th,9.05,6,94.89,Yes,No
+S1651,Student_651,19,Other,Mechanical,1st,7.0,7,71.92,No,No
+S1253,Student_253,23,Male,Computer Science,1st,4.11,4,61.35,Yes,No
+S1303,Student_303,17,Female,Civil,2nd,9.39,4,76.57,No,No
+S1746,Student_746,19,Female,Computer Science,3rd,9.06,4,63.5,Yes,No
+S1571,Student_571,17,Male,Electronics,3rd,6.97,5,63.57,No,No
+S1623,Student_623,23,Male,IT,1st,8.78,8,96.39,No,No
+S1732,Student_732,17,Female,Electrical,2nd,4.16,4,71.96,Yes,No
+S1891,Student_891,22,Male,Civil,2nd,8.55,5,91.21,Yes,No
+S1262,Student_262,23,Other,Civil,1st,8.96,2,68.45,Yes,No
+S1610,Student_610,20,Male,Mechanical,2nd,7.36,5,65.21,Yes,No
+S1297,Student_297,23,Male,Electrical,3rd,4.56,5,91.73,Yes,No
+S1414,Student_414,17,Male,Electronics,4th,4.44,1,74.66,No,No
+S1150,Student_150,19,Male,Computer Science,3rd,6.73,8,84.94,Yes,No
+S1788,Student_788,21,Male,Civil,1st,6.0,1,88.48,Yes,No
+S1640,Student_640,21,Male,Mechanical,4th,7.43,1,84.95,No,No
+S1889,Student_889,21,Male,Computer Science,1st,6.91,10,92.69,Yes,No
+S1550,Student_550,20,Female,Electrical,1st,8.11,7,90.42,No,No
+S1886,Student_886,18,Male,Electronics,1st,4.66,6,71.26,Yes,No
+S1488,Student_488,22,Other,IT,4th,4.95,9,81.34,Yes,No
+S1147,Student_147,19,Other,Mechanical,2nd,8.33,3,92.94,Yes,No
+S1146,Student_146,23,Male,IT,4th,6.48,6,85.06,No,No
+S1720,Student_720,18,Female,Computer Science,1st,6.07,9,71.77,Yes,No
+S1931,Student_931,20,Other,Electrical,3rd,5.42,7,96.46,Yes,No
+S1739,Student_739,20,Other,Civil,4th,9.47,6,98.28,No,No
+S1659,Student_659,20,Male,Electrical,4th,6.57,10,89.27,No,No
+S1348,Student_348,17,Male,IT,3rd,7.16,9,87.1,No,No
+S1463,Student_463,23,Female,Electrical,2nd,8.08,10,92.99,No,No
+S1325,Student_325,21,Other,Electronics,3rd,7.77,9,82.02,No,No
+S1186,Student_186,17,Other,Computer Science,2nd,7.99,4,62.3,No,No
+S1123,Student_123,24,Male,IT,4th,7.57,10,92.62,Yes,Yes
+S1853,Student_853,21,Other,Electronics,4th,7.51,9,94.23,No,No
+S1608,Student_608,17,Male,Electrical,3rd,4.1,3,66.15,Yes,No
+S1143,Student_143,20,Male,IT,4th,8.44,10,98.1,Yes,Yes
+S1958,Student_958,21,Female,Electronics,1st,8.24,2,68.4,Yes,No
+S1197,Student_197,23,Male,Computer Science,3rd,7.58,2,81.19,Yes,No
+S1609,Student_609,18,Female,IT,4th,8.57,4,62.46,Yes,No
+S1279,Student_279,19,Female,Computer Science,2nd,9.55,4,78.76,Yes,No
+S1293,Student_293,17,Male,IT,4th,4.57,1,79.73,Yes,No
+S1400,Student_400,18,Male,Computer Science,3rd,8.7,5,82.59,Yes,No
+S1122,Student_122,23,Other,Computer Science,1st,6.78,4,74.8,Yes,No
+S1183,Student_183,18,Male,IT,4th,5.81,8,85.64,No,No
+S1202,Student_202,18,Male,Electrical,2nd,7.36,10,77.43,Yes,No
+S1438,Student_438,22,Female,Civil,4th,7.47,9,90.01,No,No
+S1246,Student_246,21,Female,IT,4th,9.77,2,61.82,Yes,No
+S1415,Student_415,18,Female,Mechanical,1st,8.72,2,97.76,Yes,No
+S1932,Student_932,23,Female,Mechanical,3rd,7.91,6,90.62,Yes,No
+S1765,Student_765,23,Male,IT,4th,7.81,5,70.56,No,No
+S1906,Student_906,24,Other,Civil,2nd,5.37,1,68.75,No,No
+S1835,Student_835,22,Female,Electronics,2nd,7.12,3,93.32,No,No
+S1887,Student_887,20,Male,Electrical,4th,6.72,1,68.19,Yes,No
+S1129,Student_129,19,Male,IT,1st,8.61,1,96.6,Yes,No
+S1637,Student_637,24,Other,Civil,4th,8.24,6,92.55,No,No
+S1402,Student_402,17,Female,Civil,1st,5.87,3,62.98,Yes,No
+S1784,Student_784,22,Other,Civil,1st,7.27,10,80.39,No,No
+S1770,Student_770,21,Female,Electronics,2nd,8.29,1,66.59,Yes,No
+S1735,Student_735,23,Other,Mechanical,4th,6.72,8,81.31,Yes,No
+S1913,Student_913,18,Other,IT,2nd,4.58,2,86.91,Yes,No
+S1219,Student_219,21,Male,Computer Science,1st,8.4,3,85.64,No,No
+S1641,Student_641,20,Male,Mechanical,1st,5.11,8,83.19,Yes,No
+S1915,Student_915,21,Other,Civil,4th,7.17,7,92.3,No,No
+S1752,Student_752,23,Male,Electrical,2nd,4.78,9,79.42,Yes,No
+S1806,Student_806,23,Other,Civil,2nd,8.21,4,91.59,Yes,No
+S1919,Student_919,24,Other,Electrical,3rd,5.67,5,81.39,Yes,No
+S1624,Student_624,20,Other,IT,3rd,6.18,8,83.76,No,No
+S1874,Student_874,24,Male,Electronics,4th,5.23,3,69.86,Yes,No
+S1760,Student_760,23,Female,Civil,3rd,5.22,9,86.31,Yes,No
+S1386,Student_386,17,Female,Electrical,1st,4.21,4,91.08,No,No
+S1972,Student_972,23,Female,Civil,1st,6.54,1,77.16,Yes,No
+S1509,Student_509,18,Other,Civil,1st,8.91,6,64.91,Yes,No
+S1267,Student_267,17,Other,Civil,1st,8.15,1,97.7,No,No
+S1819,Student_819,24,Male,Civil,1st,9.49,9,60.36,No,No
+S1441,Student_441,24,Male,Electronics,4th,4.55,3,60.31,No,No
+S1496,Student_496,22,Female,Electrical,1st,8.54,1,73.19,Yes,No
+S1112,Student_112,23,Male,Computer Science,4th,7.15,1,71.9,No,No
+S1691,Student_691,19,Female,Electrical,4th,4.12,9,75.01,Yes,No
+S1232,Student_232,18,Female,IT,4th,7.56,10,65.04,No,No
+S1869,Student_869,18,Male,Mechanical,2nd,7.53,6,91.66,No,No
+S1607,Student_607,17,Female,IT,4th,5.27,7,83.45,Yes,No
+S1671,Student_671,23,Male,Mechanical,4th,4.52,3,90.19,Yes,No
+S1373,Student_373,23,Male,Mechanical,3rd,5.97,3,85.8,Yes,No
+S1981,Student_981,20,Male,IT,2nd,7.21,10,90.76,No,No
+S1842,Student_842,21,Female,Electrical,2nd,6.98,10,70.8,No,No
+S1233,Student_233,20,Other,Computer Science,3rd,4.29,4,65.11,Yes,No
+S1785,Student_785,18,Other,IT,1st,7.05,3,61.77,Yes,No
+S1676,Student_676,22,Male,Electronics,4th,7.94,3,68.28,No,No
+S1317,Student_317,17,Male,Electrical,2nd,4.67,8,92.54,No,No
+S1648,Student_648,24,Other,Mechanical,2nd,4.6,3,97.42,No,No
+S1410,Student_410,19,Female,IT,1st,8.57,5,95.06,No,No
+S1898,Student_898,20,Other,Civil,3rd,4.33,4,68.35,Yes,No
+S1709,Student_709,24,Female,Mechanical,4th,9.82,7,63.94,No,No
+S1358,Student_358,24,Female,Electrical,3rd,7.18,8,65.01,No,No
+S1258,Student_258,22,Female,IT,4th,4.92,4,85.98,Yes,No
+S1744,Student_744,22,Other,Mechanical,3rd,5.13,2,93.41,No,No
+S1627,Student_627,23,Other,IT,1st,6.76,1,91.94,Yes,No
+S1632,Student_632,20,Female,IT,2nd,4.16,10,84.08,No,No
+S1282,Student_282,24,Other,Electrical,2nd,6.14,4,93.14,Yes,No
+S1376,Student_376,24,Male,Computer Science,1st,7.26,7,79.52,No,No
+S1384,Student_384,23,Female,IT,1st,5.35,3,85.84,Yes,No
+S1224,Student_224,18,Female,Electronics,3rd,4.38,1,75.2,No,No
+S1953,Student_953,18,Male,Civil,3rd,9.78,2,79.75,Yes,No
+S1814,Student_814,20,Other,Computer Science,3rd,8.01,6,85.24,No,No
+S1472,Student_472,24,Other,Electrical,1st,5.44,9,90.85,Yes,No
+S1347,Student_347,21,Other,Electronics,3rd,4.33,4,69.46,No,No
+S1505,Student_505,23,Male,IT,4th,9.86,5,68.94,Yes,No
+S1639,Student_639,17,Male,Computer Science,4th,5.33,2,69.57,Yes,No
+S1987,Student_987,23,Female,Electronics,1st,9.41,5,77.27,No,No
+S1928,Student_928,19,Other,Electrical,2nd,7.9,5,98.61,Yes,No
+S1905,Student_905,18,Other,IT,2nd,8.74,3,74.84,Yes,No
+S1619,Student_619,24,Female,Electronics,1st,8.36,9,87.63,Yes,Yes
+S1855,Student_855,20,Female,Civil,1st,8.26,9,91.41,No,No
+S1803,Student_803,18,Male,IT,3rd,5.98,10,87.95,No,No
+S1645,Student_645,19,Male,Computer Science,1st,4.08,4,98.55,No,No
+S1846,Student_846,22,Female,Computer Science,1st,4.99,2,86.98,No,No
+S1556,Student_556,19,Male,Mechanical,3rd,6.81,9,92.41,No,No
+S1957,Student_957,21,Other,Electronics,3rd,5.39,4,93.95,Yes,No
+S1577,Student_577,20,Other,Mechanical,4th,4.71,5,68.61,Yes,No
+S1795,Student_795,23,Male,Mechanical,3rd,4.03,2,89.28,No,No
+S1085,Student_85,24,Female,Civil,2nd,9.01,4,81.82,No,No
+S1242,Student_242,19,Female,IT,1st,5.02,7,77.14,Yes,No
+S1698,Student_698,22,Other,Electrical,1st,4.6,6,76.67,Yes,No
+S1159,Student_159,17,Female,IT,3rd,7.2,7,61.18,No,No
+S1524,Student_524,24,Male,Civil,1st,4.91,4,87.08,No,No
+S1035,Student_35,20,Female,Electrical,4th,4.6,9,86.0,No,No
+S1540,Student_540,17,Other,IT,1st,9.26,2,82.91,No,No
+S1170,Student_170,18,Male,Electrical,2nd,8.5,6,72.89,No,No
+S1654,Student_654,21,Male,IT,4th,9.47,10,74.96,No,No
+S1890,Student_890,18,Other,Electrical,4th,9.73,1,66.08,No,No
+S1857,Student_857,23,Male,Electronics,3rd,6.22,3,96.42,No,No
+S1847,Student_847,23,Male,IT,2nd,6.07,1,77.12,Yes,No
+S1944,Student_944,21,Male,IT,1st,8.8,3,68.21,Yes,No
+S1733,Student_733,22,Male,Computer Science,4th,7.48,4,98.47,No,No
+S1095,Student_95,20,Other,IT,4th,9.78,10,86.0,Yes,Yes
+S1563,Student_563,22,Female,Electronics,1st,7.51,10,74.66,Yes,Yes
+S1240,Student_240,23,Male,Electronics,1st,8.24,7,81.37,Yes,Yes
+S1742,Student_742,22,Female,Computer Science,2nd,4.62,2,82.74,No,No
+S1574,Student_574,21,Male,Mechanical,4th,5.21,6,84.38,Yes,No
+S1690,Student_690,22,Female,IT,3rd,6.48,4,71.33,Yes,No
+S1460,Student_460,24,Female,Electronics,4th,8.1,2,85.83,Yes,No
+S1553,Student_553,21,Female,Mechanical,3rd,7.36,1,60.99,No,No
+S1888,Student_888,21,Other,Electronics,1st,6.93,9,96.99,Yes,No
+S1206,Student_206,21,Female,Electronics,2nd,4.75,2,75.24,Yes,No
+S1392,Student_392,23,Other,Electrical,2nd,7.05,9,87.17,Yes,No
+S1794,Student_794,24,Male,Mechanical,1st,4.66,9,78.78,Yes,No
+S1397,Student_397,20,Other,IT,4th,5.49,3,63.53,No,No
+S1766,Student_766,21,Female,Electronics,1st,7.33,3,64.72,No,No
+S1848,Student_848,19,Female,Electronics,4th,4.37,6,69.28,Yes,No
+S1217,Student_217,22,Male,Civil,4th,4.77,7,70.16,No,No
+S1004,Student_4,23,Male,IT,3rd,7.76,7,74.78,No,No
+S1768,Student_768,22,Female,Civil,3rd,6.67,6,85.31,Yes,No
+S1642,Student_642,22,Male,Mechanical,4th,7.21,2,74.66,Yes,No
+S1929,Student_929,23,Other,Mechanical,4th,7.41,7,98.84,No,No
+S1612,Student_612,20,Female,Electronics,2nd,8.52,5,69.57,Yes,No
+S1738,Student_738,24,Female,Civil,4th,8.64,7,60.61,Yes,Yes
+S1546,Student_546,24,Other,Mechanical,4th,6.04,10,68.61,Yes,No
+S1725,Student_725,18,Female,Mechanical,2nd,5.51,4,98.07,No,No
+S1683,Student_683,18,Female,Electronics,4th,9.07,4,81.34,Yes,No
+S1098,Student_98,18,Female,Mechanical,1st,6.35,9,99.31,Yes,No
+S1804,Student_804,19,Female,Computer Science,3rd,5.64,9,87.4,Yes,No
+S1727,Student_727,18,Other,Computer Science,2nd,4.07,1,92.46,No,No
+S1573,Student_573,22,Other,Computer Science,2nd,7.26,4,99.55,No,No
+S1406,Student_406,24,Female,Civil,3rd,6.09,4,90.67,No,No
+S1502,Student_502,22,Other,Mechanical,1st,6.66,9,96.81,No,No
+S1047,Student_47,18,Female,Electronics,1st,9.11,7,72.94,Yes,Yes
+S1032,Student_32,18,Female,Mechanical,1st,8.15,3,74.88,No,No
+S1779,Student_779,20,Other,IT,4th,4.59,9,64.24,Yes,No
+S1839,Student_839,17,Female,Electronics,4th,5.86,1,87.59,No,No
+S1200,Student_200,21,Other,Electronics,1st,4.14,7,99.4,Yes,No
+S1134,Student_134,17,Male,Electronics,4th,6.57,10,67.16,No,No
+S1027,Student_27,17,Other,Civil,4th,6.2,7,68.77,No,No
+S1880,Student_880,18,Female,Electronics,1st,8.16,2,93.98,Yes,No
+S1230,Student_230,21,Other,Mechanical,1st,5.42,9,79.51,Yes,No
+S1489,Student_489,20,Female,Electrical,3rd,8.8,6,88.03,Yes,No
+S1772,Student_772,17,Male,Mechanical,4th,5.92,9,61.29,Yes,No
+S1378,Student_378,20,Other,Electrical,3rd,10.0,4,76.9,No,No
+S1288,Student_288,18,Female,Electrical,2nd,8.78,3,89.73,No,No
+S1418,Student_418,18,Female,IT,1st,8.25,4,87.03,No,No
+S1674,Student_674,19,Female,Electronics,3rd,4.82,5,84.16,Yes,No
+S1391,Student_391,24,Other,Electrical,4th,7.31,1,80.88,No,No
+S1592,Student_592,23,Male,Mechanical,3rd,6.74,8,92.76,No,No
+S1498,Student_498,22,Other,Electrical,2nd,5.32,3,61.18,Yes,No
+S1138,Student_138,17,Male,Mechanical,2nd,4.56,10,80.2,Yes,No
+S1062,Student_62,24,Other,Computer Science,3rd,7.0,8,61.27,Yes,No
+S1471,Student_471,22,Male,Computer Science,1st,6.49,7,98.49,No,No
+S1647,Student_647,23,Female,Electronics,1st,8.25,5,86.47,Yes,No
+S1128,Student_128,17,Other,Civil,4th,4.31,9,82.5,Yes,No
+S1976,Student_976,21,Other,Mechanical,3rd,5.05,6,84.52,Yes,No
+S1520,Student_520,22,Female,Computer Science,3rd,9.01,4,96.47,Yes,No
+S1838,Student_838,17,Female,Electronics,2nd,6.7,9,70.61,Yes,No
+S1962,Student_962,22,Other,IT,2nd,8.64,10,91.15,No,No
+S1064,Student_64,24,Male,Electronics,1st,7.92,5,94.88,Yes,No
+S1812,Student_812,22,Female,IT,3rd,9.81,1,69.6,Yes,No
+S1014,Student_14,21,Female,Electrical,4th,6.28,6,93.94,No,No
+S1156,Student_156,22,Other,Civil,2nd,5.74,9,83.2,Yes,No
+S1040,Student_40,21,Other,Mechanical,4th,9.91,10,76.14,Yes,Yes
+S1492,Student_492,23,Other,Mechanical,4th,6.98,8,96.02,Yes,No
+S1379,Student_379,17,Female,Civil,2nd,6.54,6,83.28,No,No
+S1187,Student_187,19,Female,Civil,4th,7.24,3,67.63,No,No
+S1763,Student_763,23,Female,Computer Science,3rd,6.79,9,79.52,Yes,No
+S1216,Student_216,23,Female,Computer Science,4th,5.69,8,81.65,No,No
+S1791,Student_791,20,Female,Electrical,1st,4.28,9,93.38,Yes,No
+S1052,Student_52,17,Female,Mechanical,2nd,7.5,7,80.81,No,No
+S1878,Student_878,24,Other,Civil,4th,9.49,1,99.42,No,No
+S1337,Student_337,23,Other,IT,3rd,6.36,4,98.31,No,No
+S1748,Student_748,20,Male,Electronics,3rd,7.3,4,73.53,Yes,No
+S1719,Student_719,23,Other,Electronics,1st,8.64,2,87.41,No,No
+S1724,Student_724,18,Other,IT,4th,5.92,3,66.4,Yes,No
+S1295,Student_295,20,Female,Electronics,4th,6.05,9,78.91,Yes,No
+S1701,Student_701,20,Male,Mechanical,4th,6.59,8,96.19,Yes,No
+S1251,Student_251,21,Male,Civil,2nd,7.43,8,67.27,No,No
+S1726,Student_726,21,Other,IT,4th,7.41,2,85.23,No,No
+S1461,Student_461,22,Male,Mechanical,1st,5.77,5,99.74,No,No
+S1455,Student_455,22,Female,IT,2nd,4.42,7,72.43,No,No
+S1996,Student_996,21,Female,Civil,3rd,6.5,3,77.02,Yes,No
+S1815,Student_815,18,Other,Electrical,3rd,9.14,1,66.9,Yes,No
+S1862,Student_862,21,Female,Civil,1st,6.22,6,88.14,Yes,No
+S1269,Student_269,23,Other,Civil,3rd,5.67,8,99.96,Yes,No
+S1201,Student_201,22,Other,Civil,3rd,9.78,2,79.54,No,No
+S1161,Student_161,18,Female,Civil,4th,4.87,1,80.82,Yes,No
+S1555,Student_555,18,Female,Computer Science,3rd,6.52,6,94.78,Yes,No
+S1729,Student_729,19,Male,IT,1st,8.43,2,87.04,Yes,No
+S1401,Student_401,22,Male,Civil,4th,8.91,2,97.52,No,No
+S1702,Student_702,22,Female,Electronics,4th,4.75,1,93.24,No,No
+S1476,Student_476,20,Male,Mechanical,3rd,7.9,7,86.78,No,No
+S1821,Student_821,23,Other,Civil,2nd,4.7,10,86.79,Yes,No
+S1771,Student_771,20,Male,Electrical,4th,5.53,3,79.4,Yes,No
+S1105,Student_105,18,Male,Computer Science,2nd,4.25,7,92.53,Yes,No
+S1565,Student_565,21,Female,Electronics,3rd,6.14,7,93.12,No,No
+S1389,Student_389,17,Male,Mechanical,4th,4.73,2,69.71,No,No
+S1001,Student_1,19,Female,Civil,2nd,5.17,10,67.52,Yes,No
+S1937,Student_937,23,Other,Electrical,1st,6.37,7,84.08,Yes,No
+S1982,Student_982,18,Male,Electronics,2nd,6.96,8,91.41,Yes,No
+S1561,Student_561,21,Female,Electronics,2nd,9.95,3,70.15,No,No
+S1080,Student_80,23,Other,Civil,2nd,7.61,6,86.47,Yes,No
+S1205,Student_205,21,Other,Electronics,2nd,4.8,7,98.75,No,No
+S1034,Student_34,17,Female,IT,1st,9.42,1,84.29,No,No
+S1775,Student_775,20,Other,IT,1st,9.61,6,97.61,Yes,No
+S1508,Student_508,24,Male,Electronics,4th,9.22,1,67.55,Yes,No
+S1427,Student_427,17,Male,Computer Science,2nd,9.87,1,79.44,Yes,No
+S1454,Student_454,20,Other,Mechanical,1st,5.26,7,96.98,Yes,No
+S1366,Student_366,24,Male,Civil,3rd,4.66,6,89.45,No,No
+S1091,Student_91,18,Female,Mechanical,4th,9.33,4,88.46,No,No
+S1339,Student_339,20,Male,Civil,1st,5.79,10,88.25,Yes,No
+S1897,Student_897,22,Male,Computer Science,1st,9.0,5,96.85,Yes,No
+S1564,Student_564,21,Male,Electrical,4th,6.04,1,74.07,No,No
+S1345,Student_345,19,Female,Mechanical,3rd,5.3,8,92.72,Yes,No
+S1776,Student_776,19,Other,IT,3rd,8.95,5,90.58,No,No
+S1241,Student_241,21,Other,Electronics,3rd,7.79,8,69.24,No,No
+S1013,Student_13,22,Female,Mechanical,3rd,6.93,6,66.78,No,No
+S1315,Student_315,17,Other,IT,1st,5.26,8,79.34,No,No
+S1600,Student_600,21,Other,Civil,4th,7.89,2,94.73,No,No
+S1387,Student_387,24,Female,Computer Science,3rd,4.18,5,80.2,No,No
+S1273,Student_273,22,Female,Electrical,1st,6.85,8,80.38,No,No
+S1166,Student_166,20,Other,Computer Science,1st,5.97,7,86.2,Yes,No
+S1840,Student_840,22,Female,Civil,1st,7.72,9,97.97,Yes,Yes
+S1992,Student_992,21,Other,Civil,4th,6.83,7,68.01,Yes,No
+S1646,Student_646,24,Other,Electrical,2nd,7.32,5,87.89,Yes,No
+S1818,Student_818,18,Other,Civil,4th,8.86,2,92.92,No,No
+S1484,Student_484,21,Other,IT,4th,7.37,6,71.21,Yes,No
+S1980,Student_980,20,Male,Civil,3rd,9.05,7,62.32,No,No
+S1504,Student_504,23,Male,Electrical,3rd,4.6,9,79.34,No,No
+S1831,Student_831,18,Other,Mechanical,4th,8.11,6,86.62,No,No
+S1243,Student_243,22,Other,Civil,2nd,9.0,3,87.08,Yes,No
+S1566,Student_566,22,Other,Electrical,4th,6.32,10,79.41,No,No
+S1875,Student_875,17,Female,IT,3rd,5.88,9,66.49,Yes,No
+S1562,Student_562,20,Female,Mechanical,1st,6.74,3,98.06,No,No
+S1686,Student_686,17,Male,Civil,4th,8.89,3,69.47,No,No
+S1189,Student_189,17,Other,Electronics,2nd,4.07,5,75.22,No,No
+S1782,Student_782,18,Other,Civil,1st,9.12,6,85.43,Yes,No
+S1699,Student_699,22,Female,Computer Science,3rd,5.99,4,91.5,No,No
+S1475,Student_475,23,Male,Electronics,3rd,5.1,9,70.6,No,No
+S1681,Student_681,20,Male,Electronics,4th,4.68,6,99.32,Yes,No
+S1510,Student_510,21,Other,Computer Science,4th,8.69,2,76.48,Yes,No
+S1058,Student_58,20,Female,Electrical,4th,10.0,1,81.19,No,No
+S1474,Student_474,17,Other,Mechanical,4th,5.99,4,91.78,No,No
+S1560,Student_560,24,Female,Electrical,2nd,7.24,7,98.26,No,No
+S1856,Student_856,21,Other,IT,1st,7.43,2,75.33,No,No
+S1747,Student_747,20,Male,Electrical,1st,6.89,7,91.5,Yes,No
+S1252,Student_252,22,Male,Electronics,1st,6.49,10,75.78,No,No
+S1021,Student_21,20,Female,Electronics,4th,8.66,3,73.51,Yes,No
+S1313,Student_313,22,Other,IT,3rd,8.18,2,86.86,Yes,No
+S1459,Student_459,18,Other,Computer Science,2nd,6.12,8,81.69,No,No
+S1160,Student_160,20,Other,IT,4th,6.67,5,97.77,No,No
+S1276,Student_276,20,Male,Mechanical,4th,4.23,2,77.2,Yes,No
+S1955,Student_955,20,Female,Electronics,4th,5.27,3,78.78,No,No
+S1191,Student_191,18,Female,Mechanical,3rd,6.35,2,73.09,No,No
+S1385,Student_385,21,Male,Computer Science,3rd,5.12,9,89.54,No,No
+S1805,Student_805,23,Other,Computer Science,1st,5.29,10,61.49,No,No
+S1413,Student_413,23,Female,IT,3rd,5.32,8,73.77,No,No
+S1491,Student_491,19,Male,Computer Science,3rd,6.81,2,87.82,No,No
+S1343,Student_343,22,Female,IT,2nd,6.69,10,79.11,No,No
+S1769,Student_769,20,Other,IT,2nd,6.97,4,97.32,Yes,No
+S1308,Student_308,22,Female,Computer Science,4th,5.76,9,95.37,No,No
+S1661,Student_661,22,Male,Computer Science,1st,4.81,4,84.25,Yes,No
+S1130,Student_130,17,Female,Computer Science,2nd,5.84,7,69.46,Yes,No
+S1663,Student_663,24,Other,IT,2nd,5.8,4,96.12,Yes,No
+S1871,Student_871,20,Other,Electrical,2nd,5.83,3,76.27,No,No
+S1099,Student_99,24,Male,Civil,1st,8.93,4,90.9,Yes,No
+S1372,Student_372,23,Other,Mechanical,2nd,5.0,2,95.33,No,No
+S1087,Student_87,23,Female,Electrical,2nd,5.1,5,85.78,No,No
+S1458,Student_458,17,Male,Civil,4th,7.1,1,99.11,Yes,No
+S1330,Student_330,23,Male,Computer Science,2nd,6.76,3,79.43,Yes,No
+S1214,Student_214,23,Male,Mechanical,1st,6.24,5,78.52,Yes,No
+S1466,Student_466,17,Other,Electrical,2nd,6.06,9,97.26,No,No
+S1121,Student_121,18,Female,Mechanical,2nd,8.62,8,75.06,Yes,Yes
+S1614,Student_614,18,Male,Electrical,3rd,4.95,10,62.72,Yes,No
+S1020,Student_20,23,Female,Computer Science,1st,5.7,8,74.41,No,No
+S1700,Student_700,19,Other,Electrical,4th,8.61,6,88.91,Yes,No
+S1071,Student_71,24,Male,Mechanical,4th,6.39,6,82.87,No,No
+S1106,Student_106,20,Other,Electrical,3rd,9.14,3,83.46,Yes,No
+S1270,Student_270,23,Female,Electrical,1st,4.65,8,72.85,Yes,No
+S1860,Student_860,19,Female,Computer Science,4th,7.45,3,67.68,Yes,No
+S1435,Student_435,21,Female,Electronics,3rd,6.01,5,83.02,Yes,No
+S1102,Student_102,19,Female,Computer Science,1st,5.88,7,80.28,Yes,No

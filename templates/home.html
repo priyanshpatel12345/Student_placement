@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Student Placement Predictor</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        background: linear-gradient(to right, #74ebd5, #acb6e5);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+        margin: 0;
+      }
+
+      .login {
+        background-color: white;
+        padding: 40px 60px;
+        border-radius: 15px;
+        width: 600px;
+        box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+      }
+
+      h1,
+      h2,
+      legend {
+        text-align: center;
+        color: #007bff;
+        margin-bottom: 20px;
+      }
+
+      label {
+        font-weight: bold;
+        color: #333;
+      }
+
+      .form-control,
+      select,
+      input[type="number"] {
+        width: 100%;
+        padding: 12px;
+        margin: 8px 0 20px;
+        border-radius: 10px;
+        border: 1px solid #ccc;
+        background-color: #f9f9f9;
+        color: #333;
+        font-size: 16px;
+      }
+
+      .form-control:focus {
+        border: 1px solid #007bff;
+        outline: none;
+        box-shadow: 0 0 10px rgba(0, 123, 255, 0.4);
+      }
+
+      .btn {
+        background-color: #007bff;
+        color: white;
+        font-weight: bold;
+        border: none;
+        padding: 15px;
+        width: 100%;
+        border-radius: 10px;
+        cursor: pointer;
+        font-size: 18px;
+        transition: 0.3s ease;
+      }
+
+      .btn:hover {
+        background-color: #0056b3;
+      }
+
+      option {
+        background-color: white;
+        color: #333;
+      }
+
+      h2 {
+        text-align: center;
+        margin-top: 25px;
+        font-size: 20px;
+        color: #333;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="login">
+      <h1>Campus Placement Predictor</h1>
+      <form action="{{ url_for('prediction') }}" method="post">
+        <legend>Student Placement Prediction Form</legend>
+
+        <div class="mb-3">
+          <label class="form-label">age(out of 26)</label>
+          <input
+            class="form-control"
+            type="number"
+            name="age"
+            min="0"
+            max="26"
+            placeholder="Enter your age"
+            required
+          />
+        </div>
+
+        <div class="mb-3">
+          <label class="form-label">cgpa(out of 10)</label>
+          <input
+            class="form-control"
+            type="number"
+            name="cgpa"
+            min="0"
+            max="10"
+            placeholder="Enter your cgpa"
+            required
+          />
+        </div>
+
+        <div class="mb-3">
+          <label class="form-label">Communication Skill(out of 10)</label>
+          <input
+            class="form-control"
+            type="number"
+            name="communication_skill"
+            min="0"
+            max="10"
+            placeholder="Enter communication value"
+            required
+          />
+        </div>
+
+        <div class="mb-3">
+          <label class="form-label">attendance percentage(out of 100)</label>
+          <input
+            class="form-control"
+            type="number"
+            name="attendance_percentage"
+            min="0"
+            max="100"
+            placeholder="Enter attendance percentage"
+            required
+          />
+        </div>
+
+        <div class="mb-3">
+          <label class="form-label">Gender</label>
+          <select class="form-control" name="gender" required>
+            <option class="placeholder" selected disabled value="">
+              Select your Gender
+            </option>
+            <option value="male">Male</option>
+            <option value="female">Female</option>
+          </select>
+        </div>
+
+        <div class="mb-3">
+          <label class="form-label">department</label>
+          <select class="form-control" name="department" required>
+            <option class="placeholder" selected disabled value="">
+              Select department
+            </option>
+            <option value="Computer Science">Computer Science</option>
+            <option value="Civil">Civil</option>
+            <option value="Mechanical">Mechanical</option>
+            <option value="IT">IT</option>
+            <option value="Electrical">Electrical</option>
+            <option value="Electronics">Electronics</option>
+          </select>
+        </div>
+
+        <div class="mb-3">
+          <label class="form-label">department</label>
+          <select class="form-control" name="year" required>
+            <option class="placeholder" selected disabled value="">
+              Select year
+            </option>
+            <option value="1st">1st</option>
+            <option value="2nd">2nd</option>
+            <option value="3rd">3rd</option>
+            <option value="4th">4th</option>
+          </select>
+        </div>
+
+        <div class="mb-3">
+          <label class="form-label">internship_done</label>
+          <select class="form-control" name="internship_done" required>
+            <option class="placeholder" selected disabled value="">
+              Select internship_done
+            </option>
+            <option value="Yes">Yes</option>
+            <option value="No">No</option>
+          </select>
+        </div>
+
+        <div class="mb-3">
+          <input class="btn" type="submit" value="Predict Placement" />
+        </div>
+      </form>
+
+      {% if result %}
+      <h2>
+        {% if result == "Yes" %} 🎉 Congratulations! The student is likely to be
+        placed. {% else %} 😔 Sorry, the student is not likely to be placed. {%
+        endif %}
+      </h2>
+      {% endif %}
+    </div>
+  </body>
+</html>

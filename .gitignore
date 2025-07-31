@@ -26,7 +26,6 @@ share/python-wheels/
 *.egg
 
 # add folder
-artifacts/
 log_file/
 catboost_info/
 
